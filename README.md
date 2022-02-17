@@ -1,6 +1,6 @@
-# DRNG
+# DORNPG
 
-Dynamic Object Removing with neighbor patch geometry
+Dynamic Object Removing with Neighbor Patch Geometry
 
 동적물체를 제거하기 위한 RGB-D카메라 기반의 알고리즘
 
